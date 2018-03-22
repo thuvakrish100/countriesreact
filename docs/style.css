@@ -1,0 +1,19 @@
+a.active {
+    color: #000000 !important;
+    text-decoration: underline !important;
+}
+
+.white {
+  color: #f92541;
+  border: black;
+}
+
+.whitee {
+  color: #ffaa00;
+  border: black;
+}
+
+.whiteee {
+  color: #000000;
+  border: black;
+}
